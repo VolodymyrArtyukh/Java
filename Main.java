@@ -1,10 +1,10 @@
-package com.company;
+package demo;
 
 
 
 import java.util.Scanner;
 
-public class Main
+public class Name
 
 {
 
